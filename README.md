@@ -2,10 +2,10 @@
 
 ## Description
 
-The purpose of this project is to build a Node.js command-line application that takes in user input to generate a logo and save that logo as an SVG file. The user input includes selecting a shape and color, providing text for the logo, and saving the generated logo in the designated directory.
+The purpose of this project is to build a Node.js command-line application that takes in user input to generate a logo and save that logo as an SVG file. The user input includes selecting a shape and color, providing text for the logo, and saving the generated logo to a designated directory.
 
 - The motivation for this application comes from how it enables end users to create his/her/their own custom logo.
-- This custom logo maker was created to extend a easy, convenient, and cost effective way to produce a customized logo.
+- This custom logo maker was created to extend an easy, convenient, and cost effective way to produce a customized logo.
 - This application seeks to reduce the amount of time and money necessary to generate a simple logo. 
 
 
