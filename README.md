@@ -25,9 +25,9 @@ The purpose of this project is to build a Node.js command-line application that 
 
 ## Usage
 
-Link to video recording: 
+Link to video recording: https://drive.google.com/file/d/1kquqb4K4ZZqNeVpX0eBUkp9eqviPypod/view
 
-![alt text](assets/images/screenshot.png)
+![alt text](/assets/images/logo_terminal_screenshot.png)
 
 1. Right click on index.js file, open in integrated terminal
 2. Enter node index.js
@@ -57,4 +57,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 1. npm i --save-dev jest
 2. add "test": "jest" to scripts in package.json
-3. npm run tests
+3. npm run test
